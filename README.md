@@ -14,5 +14,7 @@ used maven for building and running the project
 
 change the java version and spring boot version in the pom file in your code editor to run the project successfully according to your system specifications
 
+can use poc's screenshots for reference for testing in postman 
+
 happy learning! :)
 
